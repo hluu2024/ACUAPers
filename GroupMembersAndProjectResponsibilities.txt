@@ -1,0 +1,12 @@
+Group Members:
+Alex Dang
+Hung Luu
+Pierre Tobgui
+Samuel Moon
+
+
+Responsibilites:
+Front End Ordering- Alex Dang
+Back End - Hung Luu
+Admintrator Funtions - Pierre Tobgui
+Front End Kitchen - Samuel Moon
